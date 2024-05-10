@@ -1,0 +1,74 @@
+{
+    "variables": [
+        {
+            "name": "Global Flag",
+            "type": "binary",
+            "group_name": "Global Flag"
+        },
+        {
+            "name": "Major Flag",
+            "type": "binary",
+            "group_name": "Major Flag"
+        },
+        {
+            "name": "SMC Flag",
+            "type": "binary",
+            "group_name": "SMC Flag"
+        },
+        {
+            "name": "Commercial Flag",
+            "type": "binary",
+            "group_name": "Commercial Flag"
+        },
+        {
+            "name": "IT Spend",
+            "type": "continuous",
+            "group_name": "IT Spend"
+        },
+        {
+            "name": "Employee Count",
+            "type": "continuous",
+            "group_name": "Employee Count"
+        },
+        {
+            "name": "PC Count",
+            "type": "continuous",
+            "group_name": "PC Count"
+        },
+        {
+            "name": "Size",
+            "type": "continuous",
+            "group_name": "Size"
+        },
+        {
+            "name": "Tech Support",
+            "type": "binary",
+            "group_name": "Tech Support"
+        },
+        {
+            "name": "Discount",
+            "type": "binary",
+            "group_name": "Discount"
+        },
+        {
+            "name": "New Engagement Strategy",
+            "type": "binary",
+            "group_name": "New Engagement Strategy"
+        },
+        {
+            "name": "New Product Adoption",
+            "type": "binary",
+            "group_name": "New Product Adoption"
+        },
+        {
+            "name": "Planning Summit",
+            "type": "binary",
+            "group_name": "Planning Summit"
+        },
+        {
+            "name": "Revenue",
+            "type": "continuous",
+            "group_name": "Revenue"
+        }
+    ]
+}
