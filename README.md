@@ -69,7 +69,7 @@ Activate your environment:```conda activate env_causal```
 # Run this command line from the repo root folder
 # Then open http://localhost:8888/lab from your browser in the host
 
-docker run --rm -p 8888:8888 -v .:/home/jovyan quay.io/jupyter/scipy-notebook:2024-04-29
+docker run --rm -p 8888:8888 -v .:/home/jovyan jupyter/scipy-notebook:python-3.10
 ```
 
 
